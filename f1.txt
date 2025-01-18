@@ -1,6 +1,4 @@
-Hii 
-how are you??
-bye ...
-have a nice day
-mic testing..
-i am doing my SE lab
+hii 
+Iam shivamani
+illustrating push and clone commands
+
